@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="COMTestLog">
+    <output-path>$PROJECT_DIR$/out/artifacts/COMTestLog</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main" />
+        <option name="description" value="" />
+        <option name="height" value="600" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="COMTestLog.jar">
+        <element id="module-output" name="COMTestLog" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="COMTestLog:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/COMTestLog_jar</output-path>
+    <root id="archive" name="COMTestLog.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="COMTestLog" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.0.2/jSerialComm-2.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
